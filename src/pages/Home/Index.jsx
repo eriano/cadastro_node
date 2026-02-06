@@ -19,7 +19,7 @@ function Home() {
   return (
     <div className='container'>
       <form>
-        <h1>Cadastro de Videos</h1>
+        <h1>Cadastro teste</h1>
         <input placeholder="titulo" name='title' type='text'></input>
         <input placeholder="duratduracao" name='duration' type='number'></input>
         <input placeholder="descricao" name='description' type='email'></input>
